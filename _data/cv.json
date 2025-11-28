@@ -30,7 +30,18 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+          {
+        "position": "Research Fellow",
+        "institution": "National University of Singapore",
+        "duration": "current"
+      },
+      {
+        "position": "Postdoctoral Research Associate",
+        "institution": "The University of Sydney",
+        "duration": "2024-2025"
+      }
+  ],
   "education": [
     {
       "institution": "The University of Sydney",
@@ -47,9 +58,7 @@
     },
   ],
   "skills": [],
-  "languages": [],
   "interests": [],
-  "references": [],
   "publications": [
     {
       "name": "Shaking with Fear",
