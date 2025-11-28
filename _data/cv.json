@@ -222,6 +222,41 @@
       "date": "2023",
       "location": "Heron Island, Australia",
       "description": ""
+    },
+    {
+      "name": "Sydney Clinical Imaging Symposium Invited Guest Speaker ",
+      "event": "Conference",
+      "date": "2024",
+      "location": "Sydney, Australia",
+      "description": "Awarded best presentation"
+    },
+    {
+      "name": "OHBM International Conference",
+      "event": "Conference",
+      "date": "2025",
+      "location": "Brisbane, Australia",
+      "description": ""
+    },
+    {
+      "name": "Guest Speaker - Centre for Sleep & Cognition, NUS",
+      "event": "Invited Speaker",
+      "date": "2025",
+      "location": "Singapore",
+      "description": ""
+    },
+    {
+      "name": "Guest Speaker - Nanyang Technological University",
+      "event": "Invited Speaker",
+      "date": "2025",
+      "location": "Singapore",
+      "description": ""
+    },
+    {
+      "name": "Society of Neuroscience - Singapore",
+      "event": "Invited Speaker",
+      "date": "2025",
+      "location": "Singapore",
+      "description": ""
     }
   ],
   "teaching": [
