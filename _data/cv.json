@@ -1,64 +1,50 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Natasha Taylor",
+    "email": "dr.natasha.taylor@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://NatashaLTaylor.github.io",
+    "summary": "Currently a Research Fellow at National University of Singapore. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Earth",
-      "countryCode": "US",
+      "countryCode": "Singapore",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=6zhgsicAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-3714-8290"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "NatashaLTaylor",
+        "url": "https://github.com/NatashaLTaylor"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "The University of Sydney",
+      "degree": "Ph.D in Neuroscience",
+      "supervisor": "Prof. Mac Shine",
+      "endDate": "2024",
       "gpa": null,
-      "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "The University of Sydney",
+      "degree": "Bachelor of Medical Sciences with First Class Honours",
+      "endDate": "2019",
+      "gpa": "Distinction",
     },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
   ],
   "skills": [],
   "languages": [],
@@ -66,61 +52,166 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Shaking with Fear",
+      "publisher": "Brain",
+      "releaseDate": "2020",
+      "DOI": "10.1093/brain/awaa109",
+      "summary": "This paper is an invited perspective piece on the role of noradrenaline in modulating tremor in Parkinson's Disease."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Structural and Functional Correlates of Hallucinations and Illusions in Parkinson’s Disease’",
+      "publisher": "Journal of Parkinson's Disease",
+      "releaseDate": "2021",
+      "DOI": "10.3233/JPD-212838",
+      "summary": "This paper is about structural and functional changes in visual hallucinations in Parkinson's Disease."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Limbic hypoconnectivity in idiopathic REM sleep behaviour disorder with impulse control disorders",
+      "publisher": "Journal of Neurology",
+      "releaseDate": "2021",
+      "DOI": "10.1007/s00415-021-10498-6",
+      "summary": "This paper is about hypoconnectivity changes in REM Sleep Behaviour Disorder."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Understanding the effects of serotonin in the brain through its role in the gastrointestinal tract",
+      "publisher": "Brain",
+      "releaseDate": "2022",
+      "DOI": "10.1093/brain/awac256",
+      "summary": "This paper is a review about the role of serotonin in mediating brain activity through interactions with the gut."
+    },
+    {
+      "name": "The role of the Locus Coeruleus in shaping adaptive cortical melodies",
+      "publisher": "Trends in Cognitive Sciences",
+      "releaseDate": "2022",
+      "DOI": "10.1016/j.tics.2022.03.006",
+      "summary": "This paper is a review about the role of noradrenaline in faciliating global brain activity for adaptive behaviour."
+    },
+    {
+      "name": "The Contribution of Noradrenergic Activity to Anxiety‐Induced Freezing of Gait",
+      "publisher": "Movement Disorders",
+      "releaseDate": "2022",
+      "DOI": "10.1002/mds.28999",
+      "summary": "This paper is a about the role of the noradrenergic system in driving anxiety induced freezing of gait in Parkinson's Disease."
+    },
+    {
+      "name": "The Structural and Functional Connectivity of Neuromodulatory systems underpins dynamic shifts in brain network topology and attractor landscape topography",
+      "publisher": "Neuroimage",
+      "releaseDate": "2022",
+      "DOI": "10.1016/j.neuroimage.2022.119455",
+      "summary": "This paper is a about the relationship between noradrenergic and cholinergic structural connectivity faciliates dynamic brain state shifts."
+    },
+    {
+      "name": "A whole new world: embracing the systems-level to understand the indirect impact of pathology in neurodegenerative disorders",
+      "publisher": "Journal of Neurology",
+      "releaseDate": "2022",
+      "DOI": "10.1007/s00415-022-11550-9",
+      "summary": "This paper is a review paper about embracing systems-level approaches to understanding neuropathology in the brain."
+    },
+    {
+      "name": "Modulating arousal to overcome gait impairments in Parkinson’s disease: how the noradrenergic system may act as a double-edged sword",
+      "publisher": "Translational Neurodegeneration",
+      "releaseDate": "2023",
+      "DOI": "10.1186/s40035-023-00347-z",
+      "summary": "This paper is a review paper about the role of arousal in gait related impairments in Parkinson's Disease."
+    },
+    {
+      "name": "Abnormal higher-order network interactions in Parkinson’s disease visual hallucinations",
+      "publisher": "Brain",
+      "releaseDate": "2023",
+      "DOI": "10.1101/2023.04.11.23288391",
+      "summary": "This paper is a higher-order cortical changes during visual hallucinations in Parkinson's disease."
+    },
+    {
+      "name": "Effect of dopamine on limbic network connectivity at rest in Parkinson’s disease patients with freezing of gait",
+      "publisher": "Translational Neuroscience",
+      "releaseDate": "2024",
+      "DOI": "10.1515/tnsci-2022-0336",
+      "summary": "This paper is about the effect of dopamine on resting state connectivity in Parkinson's Disease."
+    },
+    {
+      "name": "Causal evidence for cholinergic stabilisation of attractor landscape dynamics",
+      "publisher": "Cell Report",
+      "releaseDate": "2024",
+      "DOI": "10.1016/j.celrep.2024.114359",
+      "summary": "This paper is about the role of the cholinergic system in casually driving brain state shifts."
+    },
+    {
+      "name": "Dopamine alters functional gradients in Parkinson’s disease",
+      "publisher": "Imaging Neuroscience",
+      "releaseDate": "2025",
+      "DOI": "10.1162/imag_a_00564",
+      "summary": "This paper is about the dopaminergic related functional gradient changes in Parkinson's Disease."
+    },
+    {
+      "name": "Functional Magnetic Resonance Imaging (fMRI) Signatures of Progression and Phenoconversion in Prodromal Synucleinopathies",
+      "publisher": "Movement Disorders",
+      "releaseDate": "2025",
+      "DOI": "10.1002/mds.70025",
+      "summary": "This paper is about the prodromal functional changes in prodromal synucleopathies."
+    },
+    {
+      "name": "See through the Static: Reduced Imagery vividness in Aphantasia is associated with impaired temporal lobe signal complexity",
+      "publisher": "Neuropsychologia",
+      "releaseDate": "2025",
+      "DOI": "10.1101/2025.05.25.6559",
+      "summary": "This paper is about the functional related complexity changes in Aphantasia."
+    },
+    {
+      "name": "Susceptibility to visual hallucinations in the amyotrophic lateral sclerosis-frontotemporal dementia spectrum: the role of dysfunctional attentional networks",
+      "publisher": "Cortex",
+      "releaseDate": "2025",
+      "DOI": "10.1016/j.cortex.2025.08.014",
+      "summary": "This paper is about the functional changes in visual hallucinations in ALS and dementia."
+    },
+    {
+      "name": "Dysfunctional Preoperative Resting-state Network Connectivity predicts Post-operative delirium",
+      "publisher": "British Journal of Anaesthesia",
+      "releaseDate": "2025",
+      "DOI": "",
+      "summary": "This paper is about the functional connectivity changes that are predictive of post-operative delirium."
+    },
+    {
+      "name": "Preoperative Cholinergic Signatures Drive Segregated Brain Architecture in Postoperative Delirium’",
+      "publisher": "Under review",
+      "releaseDate": "2025",
+      "DOI": "https://www.researchsquare.com/article/rs-7881643/v1",
+      "summary": "This paper is about the cholinergic alterations as predictor of brain architecture changes in post-operative delirium."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "Organisation for Human Brain Mapping International Presentation",
+      "event": "Online - COVID",
+      "date": "2020",
+      "location": "International",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "International Society for Posture and Gait Research",
+      "event": "Conference",
+      "date": "2022",
+      "location": "Canada",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
+      "name": "Organization for Computational Neuroscience Presentation",
+      "event": "Conference",
+      "date": "2022",
+      "location": "Melbourne, Australia",
       "description": ""
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Complexity, Criticality, Computation Presentation",
+      "event": "Conference",
+      "date": "2023",
+      "location": "Heron Island, Australia",
+      "description": ""
+    },
+    {
+      "name": "Complexity, Criticality, Computation Presentation",
+      "event": "Conference",
+      "date": "2023",
+      "location": "Heron Island, Australia",
       "description": ""
     }
   ],
