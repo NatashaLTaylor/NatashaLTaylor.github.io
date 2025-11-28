@@ -7,8 +7,8 @@ excerpt: 'This paper is an invited review and perspective piece on the role of n
 date: 2019-05-05
 venue: 'Journal 1'
 slidesurl: 'https://NatashaLTaylor.github.io/files/shakingwithfear.pdf'
-paperurl: 'https://NatashaLTaylor.github.io/files/paper1.pdf](https://pubmed.ncbi.nlm.nih.gov/32438411/'
-bibtexurl: 'https://NatashaLTaylor.github.io/files/bibtex1.bib](https://academic.oup.com/brain/article/143/5/1288/5841785?login=false'
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/32438411/'
+bibtexurl: 'https://NatashaLTaylor.github.io/files/bibtex1.bib'
 citation: 'Taylor, N.L., Müller, E.J., Shine, J.M. (2020). ‘Shaking with fear: the Role of Noradrenaline in Modulating Resting Tremor’. Brain, (10.1093/brain/awaa109).<img width="468" height="66" alt="image" src="https://github.com/user-attachments/assets/d51d5baa-d77c-4c08-82ac-23a1f5f00180" />
 '
 ---
