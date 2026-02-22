@@ -6,7 +6,7 @@ I’m a cognitive computational neuroscientist. My research focuses on the role 
 Outside of research, I’m passionate about engaging in a vibrate scientific community, and I have been involved in several committees trying to foster collaborative and supportive environments for early-career researchers. I’m part of the OHBM community and love to collaborate on science!
 
 **Outside of Research**
-Outside of research, you will often find me hiking, swimming or going to live music events! I particularly enjoy going on “holidays” that involve multi-day hikes into the wilderness and swimming in glacial lakes.
+Outside of research, you will often find me hiking, swimming or going to live music events! I particularly enjoy going on multi-day hikes into the wilderness and swimming in glacial lakes.
 
 ---------------------
 **Contact me**
